@@ -83,7 +83,7 @@ youtube-ai-chatbot/
 #### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/arif16tech/youtube-ai-chatbot.git
 cd youtube-ai-chatbot
 ```
 
